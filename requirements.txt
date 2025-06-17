@@ -1,0 +1,6 @@
+customtkinter
+pytesseract
+pillow
+python-docx
+pypdf
+tkinterdnd2

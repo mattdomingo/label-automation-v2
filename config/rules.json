@@ -1,0 +1,13 @@
+{
+  "confidential": [
+    "confidential", "do not distribute", "internal use only", "restricted",
+    "proprietary", "sensitive", "not for public release", "classified", "private", "top secret"
+  ],
+  "pii": [
+    "ssn", "social security number", "credit card", "dob", "date of birth",
+    "passport", "driver's license", "address", "phone number", "email", "personal information", "account number"
+  ],
+  "public": [
+    "public", "for everyone", "share freely", "open access", "unrestricted", "general information", "press release"
+  ]
+}
