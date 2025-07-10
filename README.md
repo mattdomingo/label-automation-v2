@@ -21,7 +21,20 @@ Label Automation v2.0 is a modern, user-friendly desktop application for scannin
 3. Each file is analyzed for sensitivity using rules defined in `config/rules.json`.
 4. Results are displayed in the app, showing the sensitivity level for each file.
 
-## Installation
+## Quick Start 🚀
+
+**The easiest way to get started:**
+
+### Option 1: Automatic Setup (Recommended)
+1. **Clone or download this repository.**
+2. **Run the quick start script:**
+   - **Mac/Linux:** `./start.sh`
+   - **Windows:** Double-click `start.bat`
+   - **Cross-platform:** `python start.py`
+
+The script will automatically install all dependencies and launch the application!
+
+### Option 2: Manual Installation
 1. **Clone or download this repository.**
 2. **Install dependencies:**
    ```bash
